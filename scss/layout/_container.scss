@@ -1,0 +1,99 @@
+.lightgray {
+    background-color: $lightgray
+}
+.lightgray p {
+    color: $color-text-dark
+}
+.red {
+    background-color: $color-sec
+}
+
+.gray {
+    background-color: $mercury
+}
+
+section {
+    padding: 100px 0
+}
+.section-border {
+    border-bottom: 2px solid $color-text-base;
+    padding-bottom: 20px
+}
+
+.section-title {
+    line-height: 40px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 600
+}
+.images .row,
+.section-border,
+footer {
+    margin-bottom: 20px
+}
+.contact-info,
+.info,
+.section-header {
+    color: $color-text-base
+}
+.section-header {
+	@media #{$brk-md} {
+		font-size: 30px;
+	}        
+}
+#triangle {
+    fill: $white;
+    height: 170px;
+    width: 100%
+}
+.bio {
+    font-weight: 500;
+    letter-spacing: 1px;
+    line-height: 20px
+}
+.border {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-left: 5px solid $white;
+    border-right: 5px solid $white;
+    border-bottom: 5px solid $white;
+    z-index: 45!important;
+    pointer-events: none;
+    
+    @media #{$brk-md} {
+        border-left: 15px solid #fff;
+        border-right: 15px solid #fff;
+        border-bottom: 15px solid #fff
+    }
+}
+
+.contacttext {
+    transform-origin: left top 0;
+    transform: rotate(270deg);
+    width: 400px;
+    height: 15px;
+    margin-top: 400px;
+    margin-left: -3px;
+    text-align: center
+}
+.contact-info {
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 600
+}
+
+.contact-info a {
+    color: $color-text-base;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+    text-transform: lowercase
+}
+.contact-info a:hover {
+    text-decoration: none;
+    letter-spacing: 1.5px
+}

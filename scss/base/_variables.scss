@@ -1,0 +1,38 @@
+
+// Descriptive color variables
+
+$white				:#fff;
+$black				:#000;
+$gray				:#878787;
+
+$wildsand			:#f4f4f4;
+$mercury			:#e4e4e4;
+$lightgray			:#f7f7f7;
+$mineshaft			:#272727;
+$coralred			:#FF4240;
+
+// Functional Color Variables
+
+$color-prim			:$wildsand;
+$color-sec			:$coralred;
+$color-ter			:$mineshaft;
+
+$color-text-base	:$wildsand;
+$color-text-dark	:$mineshaft;
+$color-text-sec		:$coralred;
+
+$mute				:rgba($color-text-base,.7);
+
+// Font Stacks
+
+$stack-sans-serif	:Helvetica,Arial,sans-serif;
+$stack-body			:"Helvetica Neue", $stack-sans-serif;
+$stack-header		:"Montserrat", sans-serif;
+
+// Asset paths
+
+$path-img			:'../img';
+
+// Media Query Breakpoints
+
+$brk-md				:'(min-width:768px)';

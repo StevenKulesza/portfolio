@@ -1,0 +1,51 @@
+.button1,
+.button2 {
+    width: auto;
+    margin: 20px auto auto;
+    height: 40px;
+    font-family: $stack-header;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.button1 {
+    padding: 10px 25px;
+    border: solid;
+    color: $color-text-base;
+    font-weight: 600;
+    @include transition(.3s, ease all);
+    
+    &:hover {
+	    background: $color-sec;
+	    border-color: $color-sec;
+	    color: $color-text-base;
+		text-decoration: none;
+	    @include transition(.3s, ease all);
+	}
+	
+	&:focus{
+    	border-color: $color-sec;
+	    color: $color-text-base;
+	    border-color: $color-prim;
+	}
+}
+
+.button2 {
+	color: $color-text-base;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: 1px solid;
+    font-weight: 400;
+    display: inline-block;
+	@include transition(.3s, ease all);
+	
+	&:hover{
+		background: $color-ter;
+	    border-color: $color-ter;
+	    color: $color-text-base;	
+	    text-decoration: none;
+		@include transition(.3s, ease all);
+	}
+}

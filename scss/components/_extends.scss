@@ -1,0 +1,16 @@
+// Button
+
+%button {
+	width: auto;
+    margin: 20px auto auto;
+    height: 40px;
+    font-family: $stack-header;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-decoration: none;
+    border: 1px solid;
+    transition: .3s ease all;
+    -webkit-transition: .3s ease all;
+    -moz-transition: .3s ease all;
+}

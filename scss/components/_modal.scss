@@ -1,0 +1,15 @@
+.modal-content {
+    border-radius: 0;
+    background: $color-ter;
+    color: $color-text-base;
+    padding: 20px
+}
+
+.modal-header {
+    border-bottom: 0
+}
+.modal-dialog{
+	@media #{$brk-md} {
+	    margin: 300px auto;
+	}
+}

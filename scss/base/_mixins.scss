@@ -1,0 +1,21 @@
+@mixin transition($time, $transition) {
+	transition: $time $transition;
+    -webkit-transition: $time $transition;
+    -ms-transition: $time $transition;
+    -moz-transition: $time $transition;
+    -o-transition: $time $transition;
+}
+
+// generic transform
+@mixin transform($transforms) {
+	   -moz-transform: $transforms;
+	     -o-transform: $transforms;
+	    -ms-transform: $transforms;
+	-webkit-transform: $transforms;
+          transform: $transforms;
+}
+
+// translate
+@mixin translate ($x, $y) {
+   @include transform(translate($x, $y));
+}
