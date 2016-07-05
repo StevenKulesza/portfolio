@@ -165,7 +165,7 @@
                     <br>
                     <br>
                     <div class="text-left contact-info">
-                        <span><a href="mailto:stevenn.kulesza@gmail.com">Email</a></span>
+                        <span><a href="mailto:info@stevenkulesza.com">Email</a></span>
                         <br>
                         <span><a href="https://www.linkedin.com/in/steven-kulesza-27240540">LinkedIn</a></span>
                         <br>
@@ -212,7 +212,7 @@
                             <br>
                             <div class="fCheck first">
                             <strong>Programming Lanuages:</strong>
-                            <br> HTML5, CSS3, Javascript
+                            <br> HTML5, CSS3, SASS/SCSS, Javascript, Jquery
                             </div>
                             <br>
                             <div class="fCheck second">
@@ -232,7 +232,7 @@
                             <br>
                             <div class="fCheck fifth">
                             <strong>Working Knowledge</strong>
-                            <br> SQL, Sass/Scss, Python, PHP, AngularJS
+                            <br> SQL, Python, PHP, AngularJS
                             </div>
                         </div>
                     </div>
