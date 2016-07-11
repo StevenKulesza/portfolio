@@ -160,20 +160,6 @@
     <section id="contact" class="red">
         <div class="container">
             <div class="row fCheck">
-                <div class="col-sm-4">
-                    <img src="img/self3.jpg" width="100%">
-                    <br>
-                    <br>
-                    <div class="text-left contact-info">
-                        <span><a href="mailto:info@stevenkulesza.com">Email</a></span>
-                        <br>
-                        <span><a href="https://www.linkedin.com/in/steven-kulesza-27240540">LinkedIn</a></span>
-                        <br>
-                        <span><a href="https://dribbble.com/steven-kulesza">Dribbble</a></span>
-                        <br>
-                        <span><a href="https://instagram.com/kuleszas">Illustration</a></span>
-                    </div>
-                </div>
                 <div class="col-sm-8 info">
                     <div class="section-border">
                         <span class="section-header">Though I’ve worked in multiple environments, my expertise lies in front-end development, graphic design & illustration. I'm self taught and have a passion for solving problems, constantly perfecting my craft, and producing work that I can be proud of.</span>
@@ -235,6 +221,17 @@
                             <br> SQL, Python, PHP, AngularJS
                             </div>
                         </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="text-right contact-info">
+                        <span><a href="mailto:info@stevenkulesza.com">Email</a></span>
+                        <br>
+                        <span><a href="https://www.linkedin.com/in/steven-kulesza-27240540">LinkedIn</a></span>
+                        <br>
+                        <span><a href="https://dribbble.com/steven-kulesza">Dribbble</a></span>
+                        <br>
+                        <span><a href="https://instagram.com/kuleszas">Illustration</a></span>
                     </div>
                 </div>
             </div>
