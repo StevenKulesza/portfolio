@@ -15,7 +15,7 @@
                                 </p>
                                 <br>
                                 <a target="_blank" href="img/StevenKulesza-Resume.pdf" class="button1 fifth animated fadeIn">CHECK OUT MY RESUME</a>
-                                <div class="mice sixth animated fadeIn">
+                                <div class="mice sixth animated fadeIn hidden-xs">
                                     <a href="#projects">
                                         <div class="mouse">
                                             <div class="wheel"></div>
@@ -218,13 +218,14 @@
                             <br>
                             <div class="fCheck fifth">
                             <strong>Working Knowledge</strong>
-                            <br> SQL, Python, PHP, AngularJS
+                            <br> PHP, AngularJS
                             </div>
+                        <div class="section-border visible-xs"></div>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-4">
-                    <div class="text-right contact-info">
+                    <div class="contact-info">
                         <span><a href="mailto:info@stevenkulesza.com">Email</a></span>
                         <br>
                         <span><a href="https://www.linkedin.com/in/steven-kulesza-27240540">LinkedIn</a></span>

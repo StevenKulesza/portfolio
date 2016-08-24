@@ -82,7 +82,12 @@ footer {
 .contact-info {
     font-size: 14px;
     letter-spacing: 1px;
-    font-weight: 600
+    font-weight: 600;
+    text-align: left;
+	
+	@media #{$brk-md} {
+		text-align: right;		
+	}
 }
 
 .contact-info a {
