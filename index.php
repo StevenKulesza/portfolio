@@ -32,7 +32,7 @@
     </div>
     </div>
     <section id="projects" class="lightgray text-center">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-sm-6 work-item check">
                     <a href=""><img class="img-responsive" src="img/killershark.jpg"></a>
