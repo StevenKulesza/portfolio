@@ -1,5 +1,6 @@
 .button1,
 .button2 {
+    padding: 10px 25px 30px;
     width: auto;
     margin: 20px auto auto;
     height: 40px;
@@ -8,10 +9,10 @@
     letter-spacing: 1px;
     cursor: pointer;
     text-decoration: none;
+    display: inline-block;
 }
 
 .button1 {
-    padding: 10px 25px;
     border: solid;
     color: $color-text-base;
     font-weight: 600;
@@ -35,7 +36,6 @@
 .button2 {
 	color: $color-text-base;
     text-decoration: none;
-    padding: 10px 15px;
     border: 1px solid;
     font-weight: 400;
     display: inline-block;
