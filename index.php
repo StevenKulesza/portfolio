@@ -220,23 +220,9 @@
                             <strong>Working Knowledge</strong>
                             <br> PHP, AngularJS
                             </div>
-                        <div class="section-border visible-xs"></div>
                         </div>
                     </div>
                 </div>
-<!--
-                <div class="col-sm-4">
-                    <div class="contact-info">
-                        <span><a href="mailto:info@stevenkulesza.com">Email</a></span>
-                        <br>
-                        <span><a href="https://www.linkedin.com/in/steven-kulesza-27240540">LinkedIn</a></span>
-                        <br>
-                        <span><a href="https://dribbble.com/steven-kulesza">Dribbble</a></span>
-                        <br>
-                        <span><a href="https://instagram.com/kuleszas">Illustration</a></span>
-                    </div>
-                </div>
--->
             </div>
         </div>
     </section>
