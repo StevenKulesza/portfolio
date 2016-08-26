@@ -157,7 +157,7 @@
         <path d="M0,0C0,0,1421,0,1421,0C1421,0,1421,100,1421,100C1421,100,710,191,710,191C710,191,0,100,0,100C0,100,0,0,0,0"></path>
     </svg>
  -->
-    <section id="contact" class="red">
+    <section id="contact" class="gray">
         <div class="container">
             <div class="row fCheck">
                 <div class="col-sm-12 info">
