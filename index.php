@@ -186,7 +186,7 @@
                             <br>
                             <div class="fCheck fourth">
                             <strong>Freelance Illustration (2009 - present)</strong>
-                            <br> Designer & Illustrator
+                            <br> Developer, Designer & Illustrator
                             </div>
                         </div>
                         <br class="visible-xs">
