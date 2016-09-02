@@ -176,7 +176,7 @@
                             <br>
                             <div class="fCheck second">
                             <strong>Market Craft (2013 - 2015)</strong>
-                            <br> Co-Founder and Lead Web Developer/Designer
+                            <br> Web Developer/Designer
                             </div>
                             <br>
                             <div class="fCheck third">
