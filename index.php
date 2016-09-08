@@ -176,16 +176,16 @@
                             <br>
                             <div class="fCheck second">
                             <strong>Market Craft (2013 - 2015)</strong>
-                            <br> Web Developer/Designer
+                            <br> Web Developer, Designer
                             </div>
                             <br>
                             <div class="fCheck third">
                             <strong>Guy Gunter Home (2012 - 2015)</strong>
-                            <br> Lead Web Developer and Graphic Designer
+                            <br> Web Developer, Designer
                             </div>
                             <br>
                             <div class="fCheck fourth">
-                            <strong>Freelance Illustration (2009 - present)</strong>
+                            <strong>Freelance (2009 - present)</strong>
                             <br> Developer, Designer & Illustrator
                             </div>
                         </div>
