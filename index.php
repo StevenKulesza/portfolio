@@ -197,7 +197,7 @@
                             <br>
                             <br>
                             <div class="fCheck first">
-                            <strong>Programming Lanuages:</strong>
+                            <strong>Programming Languages:</strong>
                             <br> HTML5, CSS3, SASS/SCSS, Javascript, Jquery
                             </div>
                             <br>
@@ -217,7 +217,7 @@
                             </div>
                             <br>
                             <div class="fCheck fifth">
-                            <strong>Working Knowledge</strong>
+                            <strong>Basic Understanding</strong>
                             <br> PHP, AngularJS
                             </div>
                         </div>
