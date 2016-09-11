@@ -6,7 +6,7 @@
                 <div class="row fCheck">
                     <div class="col-sm-8 col-sm-offset-2 case">
                         <span>MISCELLANEOUS</span>
-                        <h1>Illustration</h1>
+                        <h1><a href="http://instagram.com/kuleszas">Illustration <i class="fa fa-angle-right"></i></a></h1>
                         <h3>Various pieces in collaboration with bands.</h3>
                     </div>
                 </div>
