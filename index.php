@@ -11,7 +11,7 @@
                                     <div class="intro-lead-in"><span class="first animated fadeIn">Developer</span> <span class="second animated fadeIn">• Designer</span> <span class="third animated fadeIn">• Illustrator</span></div>
                                 </div>
                                 <p class="bio fourth animated fadeIn">
-                                    <i class="fa fa-map-marker"></i> Atlanta, GA. Driven to make a difference.
+                                  Atlanta, GA. Driven to make a difference.
                                 </p>
                                 <br>
                                 <a target="_blank" href="img/StevenKulesza-Resume.pdf" class="button1 fifth animated fadeIn">CHECK OUT MY RESUME</a>
