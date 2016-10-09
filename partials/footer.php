@@ -1,19 +1,19 @@
     <footer class="darkgray text-center">
         <div class="container">
 	        <div class="row">
-				<div class="col-sm-2 col-sm-offset-1">
+				<div class="col-md-2 col-md-offset-1">
 					<span><a class="button1" href="mailto:info@stevenkulesza.com">Email</a></span>
 				</div>
-				<div class="col-sm-2 col-xs-6">
+				<div class="col-md-2 col-sm-6 col-xs-6">
 					<span><a class="button1" href="https://www.linkedin.com/in/steven-kulesza-27240540">LinkedIn</a></span>
 				</div>
-				<div class="col-sm-2 col-xs-6">
+				<div class="col-md-2 col-sm-6 col-xs-6">
 					<span><a class="button1" href="https://github.com/StevenKulesza">GitHub</a></span>
 				</div>
-				<div class="col-sm-2 col-xs-6">
+				<div class="col-md-2 col-sm-6 col-xs-6">
 					<span><a class="button1" href="https://dribbble.com/steven-kulesza">Dribbble</a></span>
 				</div>
-				<div class="col-sm-2 col-xs-6">
+				<div class="col-md-2 col-sm-6 col-xs-6">
 		            <span><a class="button1" href="https://instagram.com/kuleszas">Illustration</a></span>
 				</div>
 	        </div>
