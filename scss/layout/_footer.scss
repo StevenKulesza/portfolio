@@ -2,10 +2,15 @@ footer {
     color: $mute;
     padding-bottom: 20px;
     padding-top: 40px;
-}
-footer p {
-	color: $mute;
-}
-footer.gray p {
+    
+    .button1 {
+	    display: block;
+    }
+    p {
+		color: $mute;
+    }
+    .gray p {
 	color: $color-sec;
+	}
+
 }
